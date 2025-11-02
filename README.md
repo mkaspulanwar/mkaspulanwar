@@ -56,7 +56,7 @@ interests = [
 <p align="center">
 <a href="https://github.com/mkaspulanwar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkaspulanwar&show_icons=true&bg_color=0d1117&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaspulanwar&layout=compact&langs_count=5&bg_color=0d1117&theme=tokyonight&hide=html,css,shell,json"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaspulanwar&layout=compact&langs_count=8&bg_color=0d1117&theme=tokyonight&hide=html,css"/>
 </a>
 </p>
 
