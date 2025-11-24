@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/followers/mkaspulanwar?style=social">
 </div>
 
-
 # ✨ About Me
 
 > *"Artificial Intelligence is the new electricity."* — **Andrew Ng**
