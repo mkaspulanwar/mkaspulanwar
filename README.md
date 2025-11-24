@@ -19,10 +19,10 @@ I'm a passionate developer focused on **Artificial Intelligence** and **Machine 
 **currently obsessed with:**
 ```python
 interests = [
-    "making machines think 🤖",
-    "data that actually makes sense 📊", 
-    "deep learning rabbit holes 🕳️",
-    "automating my life away 🚀"
+    "making machines think",
+    "data that actually makes sense", 
+    "deep learning rabbit holes",
+    "automating my life away"
 ]
 ```
 
