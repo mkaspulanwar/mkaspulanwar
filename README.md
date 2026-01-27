@@ -59,13 +59,6 @@ interests = [
   </a>
 </p>
 
-## Activity Graph 📈
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaspulanwar&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=00d4ff&point=7c3aed&area=true&hide_border=true"/>
-</div>
-<br>
-
 ## Just a snake eating my contributions 🐍
 <p align='center'>
 <picture>
