@@ -50,15 +50,6 @@ interests = [
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
-## GitHub Stats 📊
-
-<p align="center">
-  <a href="https://github.com/mkaspulanwar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkaspulanwar&show_icons=true&bg_color=0d1117&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaspulanwar&layout=compact&langs_count=8&bg_color=0d1117&theme=tokyonight&hide=html,css"/>
-  </a>
-</p>
-
 ## Just a snake eating my contributions 🐍
 <p align='center'>
 <picture>
