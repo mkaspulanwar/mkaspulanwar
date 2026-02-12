@@ -50,11 +50,6 @@ interests = [
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mkaspulanwar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaspulanwar&layout=compact&theme=radical" />
-</p>
-
 ## Just a snake eating my contributions 🐍
 <p align='center'>
 <picture>
