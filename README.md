@@ -49,7 +49,7 @@ interests = [
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
-
+<br>
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -63,7 +63,7 @@ interests = [
     <td align="center" valign="top" width="50%">
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaspulanwar&layout=compact&theme=dark"
-        height="170em"
+        height="150em"
       />
     </td>
     <td align="center" valign="top" width="50%">
