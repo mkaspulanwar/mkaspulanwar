@@ -50,23 +50,23 @@ interests = [
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 <br>
-<table align="center">
+<table align="center" width="100%" style="border-collapse: collapse; background: transparent;">
   <tr>
-    <td align="center" width="50%">
-      <h3>Top Languages</h3>
+    <td align="center" width="50%" style="padding: 4px 0; background: transparent;">
+      <h3 style="margin: 0;">Top Languages</h3>
     </td>
-    <td align="center" width="50%">
-      <h3>GitHub Stats</h3>
+    <td align="center" width="50%" style="padding: 4px 0; background: transparent;">
+      <h3 style="margin: 0;">GitHub Stats</h3>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="50%" style="padding: 10px; background: transparent;">
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaspulanwar&layout=compact&theme=dark"
         height="150em"
       />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="50%" style="padding: 10px; background: transparent;">
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkaspulanwar&show_icons=false&theme=dark&include_all_commits=true&count_private=true"
         height="170em"
